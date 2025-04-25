@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Heeidb/Heeidb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Heeidb/Heeidb/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
