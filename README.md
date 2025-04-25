@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A little bit about me:  I'm a 26-year-old immigrant currently living in Brazil, passionate about databases, certified in MongoDB, and always curious about how data shapes the world around us.<br><br>📌  My objective: Learn, collaborate, and contribute to projects that use data to change the world. I look for opportunities to apply my knowledge.</p>
+<p align="left">A little bit about me:  I'm a immigrant currently living in Brazil, passionate about databases, certified in MongoDB, and always curious about how data shapes the world around us.<br><br>📌  My objective: Learn, collaborate, and contribute to projects that use data to change the world. I look for opportunities to apply my knowledge.</p>
 
 ###
 
