@@ -4,13 +4,7 @@
 
 <p align="left">A little bit about me:  I'm a immigrant currently living in Brazil, passionate about databases, certified in MongoDB, and always curious about how data shapes the world around us.<br><br>📌  My objective: Learn, collaborate, and contribute to projects that use data to change the world. I look for opportunities to apply my knowledge.</p>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Heeidb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
