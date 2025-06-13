@@ -11,8 +11,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" alt="postgresql logo"  />
-  <img width="16" />
+
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="45" alt="grafana logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="45" alt="prometheus logo"  />
