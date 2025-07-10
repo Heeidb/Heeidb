@@ -16,7 +16,6 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="45" alt="prometheus logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="45" alt="amazonwebservices logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
   <img width="16" />
